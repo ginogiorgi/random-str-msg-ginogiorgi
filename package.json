@@ -17,11 +17,11 @@
   "author": "Gino Ruben Giorgi <ginorubengiorgi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ginogiorgi/random-str-msg-ginogiorgi/issues",
+    "url": "https://github.com/ginogiorgi/random-str-msg-ginogiorgi/issues"
   },
   "homepage": "https://github.com/ginogiorgi/random-str-msg-ginogiorgi#readme",
   "bin": {
-    "random-str-msg-ginogiorgi": "./bin/global.js",
+    "random-str-msg-ginogiorgi": "./bin/global.js"
   },
   "preferGlobal": true
 }
